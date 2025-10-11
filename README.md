@@ -59,12 +59,6 @@
 
 ---
 
-- 💾 **Database Systems**: Query Optimization, Storage Engine, Transaction Processing
-- 🔧 **Kernel Development**: System Programming, Performance Tuning, Low-level Optimization
-- 🌐 **Open Source**: Community Contribution, Code Review, Documentation
-
----
-
 <div align="center">
   
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ULis3h&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
