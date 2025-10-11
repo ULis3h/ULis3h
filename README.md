@@ -88,12 +88,6 @@
 
 ---
 
-## 💡 Recent Blog Posts
-
-📝 [View all posts →](https://ulis3h.github.io/)
-
----
-
 <div align="center">
   
 ### 📫 Open to opportunities in Database Systems & Kernel Development
