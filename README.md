@@ -13,8 +13,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ULis3h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
@@ -36,8 +34,6 @@
 </div>
 
 ---
-
-## 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
@@ -63,15 +59,11 @@
 
 ---
 
-## 🎯 Focus Areas
-
 - 💾 **Database Systems**: Query Optimization, Storage Engine, Transaction Processing
 - 🔧 **Kernel Development**: System Programming, Performance Tuning, Low-level Optimization
 - 🌐 **Open Source**: Community Contribution, Code Review, Documentation
 
 ---
-
-## 📈 Contribution Activity
 
 <div align="center">
   
