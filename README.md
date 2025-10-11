@@ -5,7 +5,6 @@
 </div>
 
 [![Blog](https://img.shields.io/badge/📝_Blog-Visit-blue?style=for-the-badge)](https://ulis3h.github.io/)
-
 [![About](https://img.shields.io/badge/👤_About_Me-Learn_More-green?style=for-the-badge)](https://ulis3h.github.io/about/)
 
 ---
