@@ -3,13 +3,9 @@
 👋 Hi, I'm ULis， Former ISCAS Database Kernel R&D Engineer， Currently exploring new opportunities in database systems and kernel development
 
 </div>
-
-<div align="center">
   
 [![Blog](https://img.shields.io/badge/📝_Blog-Visit-blue?style=for-the-badge)](https://ulis3h.github.io/)
 [![About](https://img.shields.io/badge/👤_About_Me-Learn_More-green?style=for-the-badge)](https://ulis3h.github.io/about/)
-
-</div>
 
 ---
 
