@@ -4,10 +4,6 @@
 
 </div>
 
----
-
-## 🔗 Connect With Me
-
 <div align="center">
   
 [![Blog](https://img.shields.io/badge/📝_Blog-Visit-blue?style=for-the-badge)](https://ulis3h.github.io/)
