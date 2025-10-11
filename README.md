@@ -1,9 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm ULis
-
-### 🔧 Former **ISCAS Database Kernel R&D Engineer**
-### 🌱 Currently exploring new opportunities in database systems and kernel development
+👋 Hi, I'm ULis， Former ISCAS Database Kernel R&D Engineer， Currently exploring new opportunities in database systems and kernel development
 
 </div>
 
@@ -87,13 +84,3 @@
 </div>
 
 ---
-
-<div align="center">
-  
-### 📫 Open to opportunities in Database Systems & Kernel Development
-
-![Profile Views](https://komarev.com/ghpvc/?username=ULis3h&color=blueviolet&style=flat-square)
-
-⭐️ From [ULis3h](https://github.com/ULis3h)
-
-</div>
