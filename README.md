@@ -32,8 +32,6 @@
 
 ---
 
-## 🛠️ Tech Stack & Expertise
-
 <table align="center">
 <tr>
 <td align="center" width="33%">
