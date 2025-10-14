@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hi, I'm ULis， Former ISCAS Database Kernel R&D Engineer， Currently exploring new opportunities in database systems and kernel development
+𝓘 𝓭𝓸𝓷'𝓽 𝓷𝓮𝓮𝓭 𝓽𝓱𝓮 𝓲𝓷𝓽𝓮𝓻𝓷𝓮𝓽, 𝓽𝓱𝓮 𝓲𝓷𝓽𝓮𝓻𝓷𝓮𝓽 𝓷𝓮𝓮𝓭𝓼 𝓶𝓮.
 
 </div>
 
