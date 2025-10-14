@@ -2,10 +2,9 @@
 
 𝓘 𝓭𝓸𝓷'𝓽 𝓷𝓮𝓮𝓭 𝓽𝓱𝓮 𝓲𝓷𝓽𝓮𝓻𝓷𝓮𝓽, 𝓽𝓱𝓮 𝓲𝓷𝓽𝓮𝓻𝓷𝓮𝓽 𝓷𝓮𝓮𝓭𝓼 𝓶𝓮.
 
-</div>
-
 [![Blog](https://img.shields.io/badge/📝_Blog-Visit-blue?style=for-the-badge)](https://ulis3h.github.io/)
 [![About](https://img.shields.io/badge/👤_About_Me-Learn_More-green?style=for-the-badge)](https://ulis3h.github.io/about/)
+</div>
 
 ---
 
