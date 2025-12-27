@@ -8,33 +8,6 @@
 
 ---
 
-<!-- 🏆 GitHub Trophy -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ULis3h&theme=flat&column=7&margin-w=15&margin-h=15" alt="ULis3h's Trophy" />
-  </a>
-</div>
-
-<div align="center">
-
-<!-- 📈 GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ULis3h&show_icons=true&theme=radical&count_private=true" alt="ULis3h's GitHub Stats" height="180" />
-
-<!-- 🔥 GitHub Streak (使用更稳定的 demolab 域名) -->
-<img src="https://streak-stats.demolab.com?user=ULis3h&theme=radical" alt="ULis3h's Streak" height="180" />
-
-</div>
-
-<div align="center">
-
-<!-- 💻 Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ULis3h&layout=compact&theme=radical&hide_border=true" alt="ULis3h's Top Langs" height="180" />
-
-</div>
-
-
----
-
 <table align="center">
 <tr>
 <td align="center" width="33%">
