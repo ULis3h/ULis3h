@@ -8,25 +8,30 @@
 
 ---
 
+<!-- 🏆 GitHub Trophy -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ULis3h&theme=flat&column=7&margin-w=15&margin-h=15" alt="ULis3h's Trophy" />
+  </a>
+</div>
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ULis3h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<!-- 📈 GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ULis3h&show_icons=true&theme=radical&count_private=true" alt="ULis3h's GitHub Stats" height="180" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ULis3h&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<!-- 🔥 GitHub Streak (使用更稳定的 demolab 域名) -->
+<img src="https://streak-stats.demolab.com?user=ULis3h&theme=radical" alt="ULis3h's Streak" height="180" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ULis3h&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!-- 💻 Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ULis3h&layout=compact&theme=radical&hide_border=true" alt="ULis3h's Top Langs" height="180" />
 
 </div>
 
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ULis3h&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
